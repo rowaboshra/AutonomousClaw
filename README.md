@@ -1,8 +1,5 @@
-Certainly! Here’s a sample README file for your autonomous claw project using C language and Arduino:
 
----
-
-# Autonomous Claw README
+# Autonomous Claw
 
 ## Project Overview
 
@@ -56,10 +53,9 @@ If you would like to contribute to this project, please follow these steps:
 ## Additional
 For more details, you can check this Powerpoint presentation from my team and I about the process about this autonomous claw.
 [Claw E-Poster.pdf](https://github.com/user-attachments/files/16355921/Claw.E-Poster.pdf)
-Clip of Claw: https://github.com/user-attachments/assets/9058bbc0-ef72-40bc-a707-310367804f23
+
+Clip of Claw: https://github.com/user-attachments/assets/aa350438-c292-4c2d-8e38-b6c3245dd99c
 
 
 
----
 
-Feel free to modify and expand upon this template to suit your project's specific needs!
