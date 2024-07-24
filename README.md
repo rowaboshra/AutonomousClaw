@@ -54,7 +54,8 @@ If you would like to contribute to this project, please follow these steps:
 For more details, you can check this Powerpoint presentation from my team and I about the process about this autonomous claw.
 [Claw E-Poster.pdf](https://github.com/user-attachments/files/16355921/Claw.E-Poster.pdf)
 
-Clip of Claw: https://github.com/user-attachments/assets/aa350438-c292-4c2d-8e38-b6c3245dd99c
+Clip of the Working Claw
+[Clip of Claw](https://github.com/user-attachments/assets/aa350438-c292-4c2d-8e38-b6c3245dd99c)
 
 
 
