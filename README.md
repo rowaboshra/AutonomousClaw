@@ -29,28 +29,8 @@ The Autonomous Claw project demonstrates the integration of C programming with A
 - Arduino IDE (for compiling and uploading code)
 - C programming knowledge (for understanding and modifying the code)
 
-## Usage
 
-1. **Power On:**
-   - Turn on the power supply to the Arduino board.
-
-2. **Observe Operation:**
-   - The claw will automatically start its predefined sequence of operations, including object detection and gripping.
-
-3. **Modify Code:**
-   - To adjust the claw’s behavior, open the `autonomous_claw.ino` file in the Arduino IDE and make changes as needed.
-   - Re-upload the code to the Arduino after making modifications.
-
-## Contributing
-
-If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and test thoroughly.
-4. Submit a pull request with a clear description of the changes.
-
-## Additional
+## Additional Information
 For more details, you can check this Powerpoint presentation from my team and I about the process about this autonomous claw.
 [Claw E-Poster.pdf](https://github.com/user-attachments/files/16355921/Claw.E-Poster.pdf)
 
